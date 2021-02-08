@@ -1,0 +1,7 @@
+000004Paco           Oviparous      bird           5 0 
+000005Paco           Oviparous      bird           5 0 
+000007Paco           Oviparous      bird           5 0 
+000001Paco           Mammal         dog            0 1 
+000002Paco           Mammal         dog            0 1 
+000003Paco           Mammal         dog            0 1 
+000011Tick-Tac       Mammal         Dog            0 1 
